@@ -1,0 +1,30 @@
+{
+    "countries": [
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Andorra",
+        "Angola",
+        "Argentina",
+        "Armenia",
+        "Australia",
+        "Austria",
+        "Azerbaijan"
+    ],
+    "persons": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Emma",
+        "Frank",
+        "Grace",
+        "Hannah",
+        "Isaac",
+        "Jack",
+        "a",
+        "b",
+        "c",
+        "d"
+    ]
+}
